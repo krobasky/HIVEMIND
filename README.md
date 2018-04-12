@@ -6,6 +6,7 @@ Dobin, Alexander, et al. "STAR: ultrafast universal RNA-seq aligner." Bioinforma
 * Metabolite analysis protocol demonstrates creation of a volcano plot to identify outliers from high-throughput metabolomics data produced by nuclear magnetic resonance (NMR) and hyphenated mass spectrometry (MS), such as gas chromatography-MS (GC-MS) and liquid chromatography-MS (LC-MS).
 González-Menéndez, Víctor, et al. "Multicomponent analysis of the differential induction of secondary metabolite profiles in fungal endophytes." Molecules 21.2 (2016): 234.
 
-* nbviewer links:
-RNA-Seq STAR indexing: https://nbviewer.jupyter.org/github/krobasky/HIVEMIND/blob/master/RNA-Seq/Gene-Expression-PCA.ipynb
-Metabolite Volcano plot: https://nbviewer.jupyter.org/github/krobasky/HIVEMIND/blob/master/metabolite/Metabolite%20Volcano%20Plot%20Protocol%202.ipynb
+nbviewer links:
+* RNA-Seq STAR indexing: https://nbviewer.jupyter.org/github/krobasky/HIVEMIND/blob/master/RNA-Seq/Gene-Expression-PCA.ipynb
+
+* Metabolite Volcano plot: https://nbviewer.jupyter.org/github/krobasky/HIVEMIND/blob/master/metabolite/Metabolite%20Volcano%20Plot%20Protocol%202.ipynb
